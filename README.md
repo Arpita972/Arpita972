@@ -19,7 +19,7 @@
     
 </p>
 <p align="center">
-  <a href="https://github.com/arpita972"><img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif"></a>
+  <a href="https://github.com/arpita972"><img src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif"></a><br/>
   <img src="https://komarev.com/ghpvc/?username=arpita972&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
